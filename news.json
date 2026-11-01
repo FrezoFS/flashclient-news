@@ -1,1 +1,5 @@
-[{"title":"Bug fixed","text":"Fixed the 3D model zoom.","date":"2026-11-01","link":""},{"title":"FlashClient Aurora update","text":"The Aurora update is here.","date":"2026-10-28","link":""}]
+[
+  { "title": "Test", "text": "This is the first testing of flashclient news system hows it?." },
+  { "title": "Bug fixed", "text": "Fixed the 3D player model zooming in and out." },
+  { "title": "FlashClient Aurora update", "text": "The Aurora update is here." }
+]
