@@ -1,5 +1,4 @@
 [
-  { "title": "Test", "text": "This is the first testing of flashclient news system hows it?." },
   { "title": "Bug fixed", "text": "Fixed the 3D player model zooming in and out." },
   { "title": "FlashClient Aurora update", "text": "The Aurora update is here." }
 ]
